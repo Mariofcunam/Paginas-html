@@ -1,0 +1,10 @@
+﻿<!Doctype>
+<html>
+<head> Facultad de Ciencias </head>
+<title> Facultad de Ciencias </title>
+<Body>
+<h1>¡Bienvenido a la Facultad de Ciencias!</h1>
+<p>
+
+</html>
+

@@ -1,0 +1,54 @@
+<!Doctype>
+<html>
+<head>
+<style>
+body {
+background:#d89831
+}
+h1 {
+font-size: 60px;
+ text-align: center;
+}
+p{
+font-size: 18px
+}
+h2 {
+font-size: 20px
+}
+
+h2 {
+font- size: 80px
+}
+
+</style>
+</head>
+<title> Facultad de Ciencias. Licenciaturas. Ciencias de la Computación</title>
+<body> 
+
+<img src=https://www.juridicas.unam.mx/img/logo-unam-corto.png?1472578461 />
+<img src= https://pbs.twimg.com/profile_images/1367549945/escudo-facultad-ciencias.jpg /> 
+                                                        
+<h1>Ciencias de la Computación</h1>
+<p> Esta carrera forma al profesional con conocimientos teóricos sólidos en la disciplina y con habilidades de programación; 
+capaz de desarrollar soluciones computacionales de frontera. Proporciona los fundamentos que le permiten adaptarse a tecnologías emergentes e ideas nuevas, y la preparación para:</p>
+<ul type=square >
+<li>Analizar, diseñar y construir sistemas de software complejos.</li>
+<li>Desarrollar mecanismos para resolver problemas relacionados con: seguridad, almacenamiento de información en bases de datos y envío de información a través de redes de computadoras.</li>
+<li>Atender áreas particulares como la inteligencia artificial.</li>
+<br>
+<h2>Entre sus principales se encuentran/h2>
+<br>
+<ul type=square >
+<li>Desarrollo de aplicaciones de la computación para otras ciencias y disciplinas, 
+y para la industria: desarrollos en Internet, diseño de interfaces, cómputo móvil.</li>
+<li>Formación, capacitación y actualización de recursos humanos.</li>
+<li>Bancos y aseguradoras.</li>
+<br>
+<br>
+
+<h2> Plan de Estudios </h2>
+<a href="http://oferta.unam.mx/carrera/archivos/planes/cienciascomputacion-fciencias-planestudios17.pdf" target="http://oferta.unam.mx/carrera/archivos/planes/cienciascomputacion-fciencias-planestudios17.pdf"> Plan de estudios: Ciencias de la Computación</a>
+
+         
+</body>
+</html>
